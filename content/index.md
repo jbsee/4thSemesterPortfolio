@@ -1,8 +1,7 @@
 ---
-title: Home
+title: Introduction
 publish: true
 ---
-# Introduction
 Welcome to my portfolio for the 4th semester of the Datamatiker program at UCL.
 
 The purpose of the portfolio is to document my learning process, experiments, and reflections throughout the semester.

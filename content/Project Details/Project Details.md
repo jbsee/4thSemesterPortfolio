@@ -2,8 +2,6 @@
 title: Project Details
 publish: true
 ---
-# Project: Number Plate App
-
 The project centers around building an app that can scan car number plates, associate them with contextual data, and potentially support meaningful analysis and insights based on that data. It forms the basis for both specialization areas: Data Science & Analytics, and Machine Learning.
 ## Project Idea
 

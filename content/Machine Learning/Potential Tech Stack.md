@@ -1,9 +1,7 @@
 ---
-title: Week 35 - Potential Tech Stack
+title: Potential Tech Stack
 publish: true
 ---
-# ML Stack Considerations
-
 **Plate Detection:**
 - Ultralytics (YOLOv8)
 - Or cvlib / OpenCV with custom Haar or YOLO models

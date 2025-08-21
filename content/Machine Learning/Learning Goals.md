@@ -2,8 +2,6 @@
 title: Learning Goals
 publish: true
 ---
-# Learning Goals
-
 ## Long-Term Vision
 The goal is to develop an image-based machine learning system that can:
 - Detect number plates in images using object detection models.
