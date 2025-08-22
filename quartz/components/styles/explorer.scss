@@ -165,10 +165,6 @@ button.desktop-explorer {
     display: inline-block;
   }
 
-  & div > a:hover {
-    color: var(--tertiary);
-  }
-
   & div > button {
     color: var(--dark);
     background-color: transparent;
