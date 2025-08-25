@@ -16,7 +16,7 @@ publish: true
 
 
 ### Wednesday
-
+- ML/DS/Python
 
 
 ### Thursday

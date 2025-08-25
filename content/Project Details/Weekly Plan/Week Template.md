@@ -7,11 +7,11 @@ publish: false
 
 
 ### Tuesday
-
+- Short project meeting
 
 
 ### Wednesday
-
+- ML/DS
 
 
 ### Thursday
@@ -19,3 +19,5 @@ publish: false
 
 
 ### Friday
+- Project meeting
+	- Code review
