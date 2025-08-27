@@ -1,5 +1,6 @@
 ---
 title: System Development Methodology Draft
+publish: true
 ---
 ## Lineær opstart
 Målet er hurtigst muligt at komme igennem den lineære del af projektet, mens vi stadig benytter relevante teknikker, for at sikre gode forudsætninger for langsigtet verificering og validitet.
