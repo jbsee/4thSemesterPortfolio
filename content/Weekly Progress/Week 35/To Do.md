@@ -7,12 +7,12 @@ publish: true
 	- [x] Expanding on learning goals
 	- [x] Exploring meaningful portfolio structure
 - [ ] Explore structure for learning Python
-- [ ] Lay out a potential starting point for both ML and DS&A.
+- [ ] Lay out a potential starting point for both ML and DS&A
 
 
 ### Tuesday
 - [x] Process meeting
-- [x] Work on system development methodology in the project group.
+- [x] Work on system development methodology in the project group
 
 
 ### Wednesday
