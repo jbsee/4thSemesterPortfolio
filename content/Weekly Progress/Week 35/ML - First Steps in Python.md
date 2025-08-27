@@ -1,5 +1,5 @@
 ---
-title: Week 35 - First Steps in Python
+title: ML - First Steps in Python
 publish: true
 ---
 ### Short-Term Plan
