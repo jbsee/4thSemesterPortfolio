@@ -11,7 +11,7 @@ Målet er hurtigst muligt at komme igennem den lineære del af projektet, mens v
 	- **Foranalyse/analyse**
 		- **Hvis** vi har brug for overordnede analyser, som omhandler hele systemet/projektet (BMC, BPMN, Risikoanalyse (kompleksitet/usikkerhed)), udføres de nu.
 - **HLD**
-		- Lav 1-2 usecases hver, smæk det hurtigt ind i en lofi-domænemodel-skitse, lav en hurtigt DCD inkl. lag (pakkediagram). Sikrer en fælles vision for systemet uden at vi synker ned i design-sumpen.
+		- Lav 1-2 usecases hver, smæk det hurtigt ind i en lofi-domænemodel-skitse, lav en hurtig DCD inkl. lag (pakkediagram). Sikrer en fælles vision for systemet uden at vi synker ned i design-sumpen.
 - **MVP** (Minimal viable product)
 		- Når vi har en fælles vision for det endelige system definerer vi hvilke dele af systemet, der er nødvendige for at kunne udrulle en MVP. Den agerer bibel indtil vi har realiseret den:
 		 Vi arbejder ud fra en lofi-filosofi, hvor vi sigter efter at have noget, der kan køre på en telefon/web app hurtigst muligt med kun de allermest nødvendige features, men **som giver reel værdi til kunden**.
