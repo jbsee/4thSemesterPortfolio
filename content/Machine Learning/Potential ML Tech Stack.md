@@ -1,6 +1,5 @@
 ---
 title: Potential Tech Stack
-publish: true
 ---
 **Plate Detection:**
 - Ultralytics (YOLOv8)

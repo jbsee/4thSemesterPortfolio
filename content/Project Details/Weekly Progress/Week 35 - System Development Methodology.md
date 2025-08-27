@@ -1,6 +1,5 @@
 ---
 title: Week 35 - System Development Methodology
-publish: true
 ---
 ### Last week
 We started **Iteration 0**, coordinated work schedules, and aligned internal team expectations. We also began formalizing project requirements and created a full **FURPS+ checklist** based on our current understanding of the system.

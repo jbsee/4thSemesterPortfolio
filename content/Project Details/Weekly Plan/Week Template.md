@@ -1,17 +1,18 @@
 ---
-title: Week
-publish: false
+title: Week Template
+draft: true
 ---
+
 ### Monday
 
 
 
 ### Tuesday
-- Short project meeting
+- [ ] Short project meeting
 
 
 ### Wednesday
-- ML/DS
+- [ ] ML/DS
 
 
 ### Thursday
@@ -19,5 +20,5 @@ publish: false
 
 
 ### Friday
-- Project meeting
-	- Code review
+- [ ]  Project meeting
+	- [ ]  Code review

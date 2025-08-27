@@ -1,6 +1,5 @@
 ---
 title: Learning Goals
-publish: true
 ---
 ### Long-Term Vision
 The goal is to develop a data-driven system that can:

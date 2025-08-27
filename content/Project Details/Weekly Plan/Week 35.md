@@ -1,26 +1,33 @@
 ---
 title: Week 35
-publish: true
 ---
 ### Monday
-- Updating portfolio
-	- Expanding on learning goals
-	- Exploring meaningful portfolio structure
-- Explore structure for learning Python
-- Lay out a potential starting point for both ML and DS.
+- [x] Updating portfolio
+	- [x] Expanding on learning goals
+	- [x] Exploring meaningful portfolio structure
+- [ ] Explore structure for learning Python
+- [ ] Lay out a potential starting point for both ML and DS.
 
 
 ### Tuesday
-- Process meeting
-- Work on system development methodology in the project group.
+- [x] Process meeting
+- [x] Work on system development methodology in the project group.
 
 
 ### Wednesday
-- ML/DS/Python
+- [ ] System development method draft
+- [ ] Quality check ML stack/pipeline
+- [ ] Look into Python resources
 
 
 ### Thursday
+- [ ] Project meeting
+- [ ] ML meeting
 
 
+### By Friday
+- [ ] Clean up the weekly plan/progress structure
+- [ ] Look into integrating learning goals/reflection into short term goals
+- [ ] Look into Kolb, feedup, feedforward, feedback 
 
-### Friday
+### Reflections
