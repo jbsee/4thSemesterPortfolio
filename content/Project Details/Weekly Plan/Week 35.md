@@ -1,5 +1,6 @@
 ---
 title: Week 35
+publish: true
 ---
 ### Monday
 - [x] Updating portfolio

@@ -1,5 +1,6 @@
 ---
 title: Initial tech stack and pipeline idea
+publish: true
 ---
 ## 1) Stack
 #### Runtime

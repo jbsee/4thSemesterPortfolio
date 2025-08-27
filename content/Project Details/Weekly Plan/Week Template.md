@@ -1,5 +1,6 @@
 ---
 title: Week Template
+publish: true
 draft: true
 ---
 
