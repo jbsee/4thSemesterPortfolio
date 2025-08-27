@@ -19,7 +19,7 @@ Målet er hurtigst muligt at komme igennem den lineære del af projektet, mens v
 -  **Udviklingsplan**
 	- Vi dokumenterer valgt arkitektur, sprog, mønstre, konventioner, WIP, DOD, DOT, testfilosofi etc.
 
-Alle hifi artefakter/modeller bliver udviklet pr. MVP.
+Alle hifi artefakter bliver udviklet pr. MVP.
 
 ## Inkrementel levering gennem evolutionære prototyper
 Formålet er hurtigst muligt at udrulle noget, der både er meningsfuldt og testbart, hvilket giver mulighed for løbende feedback.

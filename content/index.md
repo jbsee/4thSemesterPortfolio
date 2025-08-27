@@ -20,5 +20,16 @@ The project supports the goals of project-based learning:
 
 Each focus area is organized as follows:
 - **Learning Goals**: Personal objectives and development targets.
-- **Weekly Update**: Logs of progress, methods, results, and reflections.
+- **Central elements** such as tech stack or project pipeline.
 - **Experiments**: Smaller trials, simulations, and tests.
+
+I'll continuously make new entries showing weekly progress following this structure:
+- Week number
+	- **[[DS&A - First Steps in Python|DS&A (Data Science and Analytics)]]**
+		- Tracking DS&A-specific progress.
+	- **[[ML - First Steps in Python|ML (Machine Learning)]]**
+		- Tracking ML-specific progress.
+	- **[[OP - System Development Methodology|OP (Overall project)]]**
+		- Tracking overall project process.
+	- **[[To Do|To Do]]**
+		- Tracking daily concrete daily activities such as meetings or tasks I plan on doing.

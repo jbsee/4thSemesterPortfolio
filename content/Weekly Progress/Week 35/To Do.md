@@ -7,7 +7,7 @@ publish: true
 	- [x] Expanding on learning goals
 	- [x] Exploring meaningful portfolio structure
 - [ ] Explore structure for learning Python
-- [ ] Lay out a potential starting point for both ML and DS.
+- [ ] Lay out a potential starting point for both ML and DS&A.
 
 
 ### Tuesday
@@ -31,9 +31,10 @@ publish: true
 
 
 ### Before the weekend
-- [ ] Clean up the weekly plan/progress structure
+- [x] Clean up the weekly plan/progress structure
 - [ ] Look into integrating learning goals/reflection into short term goals
 - [ ] Look into Kolb, feedup, feedforward, feedback 
 
 
 ### Reflections
+ML is more project-essential right now, so I've been focusing a bit more on that than DS&A for now.

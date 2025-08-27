@@ -13,7 +13,7 @@ The app also logs:
 - **Timestamp**
 - **Captured image**
 
-I'll track overall project progress in the **[[Week 35 - System Development Methodology|Weekly Progress]]** section.
+I'll track overall project progress in the **[[OP - System Development Methodology|Weekly Progress]]** section.
 
 
 ## Personal focus
