@@ -16,7 +16,7 @@ publish: true
 
 
 ### Wednesday
-- [ ] System development method draft
+- [x] System development method draft
 - [ ] Quality check ML stack/pipeline
 - [ ] Look into Python resources
 
@@ -26,9 +26,14 @@ publish: true
 - [ ] ML meeting
 
 
-### By Friday
+### Friday
+- [ ]  Project meeting
+
+
+### Before the weekend
 - [ ] Clean up the weekly plan/progress structure
 - [ ] Look into integrating learning goals/reflection into short term goals
 - [ ] Look into Kolb, feedup, feedforward, feedback 
+
 
 ### Reflections
