@@ -5,6 +5,8 @@ publish: true
 Welcome to my portfolio for the 4th semester of the Datamatiker program at UCL.
 The purpose of this portfolio is to document my learning process, experiments, and reflections throughout the semester.
 
+I’ll primarily be writing in English to improve my ability to express technical concepts and terminology with precision in English. However, I may switch to Danish for project-specific content intended for internal communication within the group or with the product owner.
+
 ### Focus Areas
 I've chosen to specialize in **[[Data Science and Analytics/Learning Goals|Data Science and Analytics]]** and **[[Machine Learning/Learning Goals|Machine Learning]]**. I've chosen these fields because I enjoy building coherent systems, but I lack experience integrating advanced techniques into the foundation. By diving into Data Science and ML, I hope to gain a solid understanding of how different ideas in these areas can be used to add value to domain-specific solutions. I'm also curious to see whether I enjoy working with them. Hopefully, by the end of the semester, I’ll know whether I want to work with Data Science and ML going forward.
 
