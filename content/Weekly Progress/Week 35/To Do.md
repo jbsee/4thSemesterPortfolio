@@ -6,8 +6,8 @@ publish: true
 - [x] Updating portfolio
 	- [x] Expanding on learning goals
 	- [x] Exploring meaningful portfolio structure
-- [ ] Explore structure for learning Python
-- [ ] Lay out a potential starting point for both ML and DS&A
+- [x] Explore structure for learning Python
+- [x] Lay out a potential starting point for both ML and DS&A
 
 
 ### Tuesday
@@ -17,13 +17,13 @@ publish: true
 
 ### Wednesday
 - [x] System development method draft
-- [ ] Quality check ML stack/pipeline
-- [ ] Look into Python resources
+- [x] Quality check ML stack/pipeline
+- [x] Look into Python resources
 
 
 ### Thursday
-- [ ] Project meeting
-- [ ] ML meeting
+- [x] Project meeting
+- [x] ML meeting
 
 
 ### Friday
@@ -37,4 +37,4 @@ publish: true
 
 
 ### Reflections
-ML is more project-essential right now, so I've been focusing a bit more on that than DS&A for now.
+ML is more project-essential right now, so I've been focusing on that rather than DS&A for now. Also quite a bit of time is spent getting the project underway. 

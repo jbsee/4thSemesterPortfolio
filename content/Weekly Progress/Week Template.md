@@ -5,7 +5,7 @@ draft: true
 ---
 
 ### Monday
-
+- [ ] ML/DS
 
 
 ### Tuesday
@@ -17,7 +17,7 @@ draft: true
 
 
 ### Thursday
-
+- [ ] ML-meeting
 
 
 ### Friday
