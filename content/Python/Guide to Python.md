@@ -11,7 +11,7 @@ publish: true
 > 
 > **This resource might be inaccurate and is not in any way a complete guide. Double check anything important!**
 
-This is meant as an introduction to Python—not to be memorized, but to help get a general understanding of the language. Some things might not make a lot of sense during the first read-through—and some (e.g. comprehensions) are not strictly necessary to implement straight away—however, they are nice to know. Use the guide for look-ups while learning by doing.
+This is meant as an introduction to Python—not to be memorized, but to help get a general understanding of the language. Some things might not make a lot of sense during the first read-through—and some (e.g. comprehensions) are not strictly necessary to implement straight away—however, they are nice to know about. Use the guide for look-ups while learning by doing.
 
 Some comparisons to C# are included, since that's the language I'm most comfortable with.
 
@@ -233,7 +233,7 @@ Unlike .NET, Python has no per-project dependency isolation by default. Use `ven
  > Fixtures are composable, reusable, and scoped.  
  > You can even **parametrize** them to test variants.
 
-#### **7. Python is opinionated about formatting—PEP 8, black, etc**  
+#### **7. Python is opinionated about formatting—PEP 8, black, etc**. 
 The language doesn’t enforce formatting, but the ecosystem does.  
 Use a formatter like `black` and move on. Don’t waste time on style debates—just let the robot win.
 
@@ -1911,7 +1911,7 @@ Know the difference. `iter()` gets an iterator from an iterable. `next()` walks 
 `yield` pauses execution, `.send()` resumes it *with a value*.  
 Before `async`, this was coroutine country.
 
-> [!info]- Injecting values into a generator
+> [!info]- **Injecting values into a generator**
 > ```python
 > def echo():
 >     received = yield "start"
@@ -1929,7 +1929,7 @@ It’s the kitchen drawer of composable iteration tools.
 `chain`, `product`, `combinations`, `cycle`, `islice`, `groupby`, etc.  
 Don’t reinvent what’s already in this module. It’s a cheat code.
 
-> [!info]- Examples of `itertools` in action
+> [!info]- **Examples of `itertools` in action**
 > ```python
 > from itertools import chain, product, islice
 > 
@@ -2701,7 +2701,7 @@ Python ships batteries-included.
 `json`, `re`, `datetime`, `os`, `pathlib`, etc.—they’re all there.  
 Learn to reach for these before installing third-party junk.
 
-> [!info]- Standard Library Cheatsheet
+> [!info]- **Standard Library Cheatsheet**
 > - `json` — encode/decode JSON
 >   ```python
 >   import json
@@ -2760,7 +2760,7 @@ Learn to reach for these before installing third-party junk.
 > 
 > These aren't trivia—they're **idiomatic tools**. Learn once, use forever.
 
-> [!info]- Beyond the Standard Library: Ecosystem Map
+> [!info]- **Beyond the Standard Library: Ecosystem Map**
 > These are **not part of the standard library**, but are dominant in their domains:
 >
 > - **Web frameworks**
