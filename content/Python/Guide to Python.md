@@ -7,11 +7,11 @@ publish: true
 >
 >This guide was built using Chat-GPT and Gemini. It started as a few questions about Python and wasn't meant to be this comprehensive, but at some point I decided to treat this as a LLM-learning experiment: **Can I use LLMs to help generate useful, customized learning material for a programming language I barely know?**
 >
->The biggest risk seems to be that I don't know what I don't know—I can't really tell if anything is missing. I tried mitigating this risk by having Chat-GPT's reasoning model fight Gemini's reasoning model in critiquing and correcting the guide. After a while I arrived at a point where corrections started becoming somewhat trivial, both models seemed happy about what was included, so I settled on a version of the guide. I have reviewed everything in the guide and modified quite a bit, but there are probably still blind spots and errors I've missed. The guide will be updated continuously throughout the semester unless I abandon it. It might turn out as a waste of time. Or as a gold mine. Most likely, it's somewhere in between. 
+>The biggest risk seems to be that I don't know what I don't know—I can't really tell if anything is missing. I tried mitigating this risk by having Chat-GPT's reasoning model fight Gemini's reasoning model in critiquing and correcting the guide. After a while I arrived at a point where corrections and additions seemed somewhat trivial, both models seemed happy about what was included, so I settled on a version of the guide. I have reviewed everything in the guide and modified quite a bit, but there are probably still blind spots and errors I've missed. The guide will be updated continuously throughout the semester—unless I abandon it. It might turn out to be a waste of time. Or a gold mine. Most likely, it's somewhere in between. 
 > 
 > **This resource might be inaccurate and is not in any way a complete guide. Double check anything important!**
 
-This is meant as an introduction to Python - not to be memorized, but to help get a general understanding of the language. Some things might not make a lot of sense during the first read-through—and some (e.g. comprehensions) are not strictly necessary to implement straight away—however, they are nice to know. Use the guide for look-ups while learning by doing.
+This is meant as an introduction to Python—not to be memorized, but to help get a general understanding of the language. Some things might not make a lot of sense during the first read-through—and some (e.g. comprehensions) are not strictly necessary to implement straight away—however, they are nice to know. Use the guide for look-ups while learning by doing.
 
 Some comparisons to C# are included, since that's the language I'm most comfortable with.
 
@@ -2917,7 +2917,7 @@ They run strings as Python code. That means **user input becomes executable**—
 
 ## Advanced Topics & Concurrency
 
-#### **58. The GIL is real. Async is cooperative**  
+#### **58. The GIL is real. Async is cooperative**.  
 The Global Interpreter Lock makes true multithreading mostly a lie. Threads share memory, but only one runs Python bytecode at a time. Use `multiprocessing` for CPU-bound work. Use `asyncio` or `trio` for IO-bound tasks. Async/await isn't magic—it's cooperative multitasking. Coroutines yield control manually (`await`), allowing thousands of tasks to run _as long as none hogs the CPU_. No `await`, no multitasking.
 
 > [!info]- **Explanation**
