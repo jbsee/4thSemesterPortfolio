@@ -33,5 +33,5 @@ I'll continuously make new entries showing weekly progress following this struct
 		- Tracking ML-specific progress.
 	- **[[OP - System Development Methodology|OP (Overall project)]]**
 		- Tracking overall project process.
-	- **[[To Do|To Do]]**
+	- **[[Weekly Progress/Week 35/To Do|To Do]]**
 		- Tracking daily concrete daily activities such as meetings or tasks I plan on doing.

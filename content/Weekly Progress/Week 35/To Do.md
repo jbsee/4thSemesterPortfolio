@@ -27,7 +27,7 @@ publish: true
 
 
 ### Friday
-- [ ]  Project meeting
+- [x]  Project meeting
 
 
 ### Before the weekend
