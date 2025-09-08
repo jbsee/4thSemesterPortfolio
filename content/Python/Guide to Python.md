@@ -163,7 +163,7 @@ Unlike .NET, Python has no per-project dependency isolation by default. Use `ven
 
 #### **5. Configuration and Environment Variables**  
 C# has `appsettings.json`, `IConfiguration`, `UserSecrets`, etc.  
-Python has… `os.getenv()` and vibes. There’s no official standard—just conventions.
+Python gives you `os.getenv()` and leaves the rest up to you. There’s no official standard—just conventions.
 
 > [!info]- **How Python handles config**
 >
