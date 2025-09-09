@@ -26,11 +26,11 @@ publish: true
 - [x] ML meeting
 
 
-### Friday
+### Friday/weekend
 - [x]  Project meeting
 
 
-### Before the weekend
+### Before next week
 - [x] Clean up the weekly plan/progress structure
 - [ ] Look into integrating learning goals/reflection into short term goals
 - [ ] Look into Kolb, feedup, feedforward, feedback 

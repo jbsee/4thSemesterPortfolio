@@ -3,6 +3,8 @@ title: To Do
 publish: true
 draft: true
 ---
+### Unplanned
+
 
 ### Monday
 - [ ] ML/DS
@@ -20,6 +22,12 @@ draft: true
 - [ ] ML-meeting
 
 
-### Friday
+### Friday/weekend
 - [ ]  Project meeting
 	- [ ]  Code review
+
+
+### Before next week
+
+
+### Reflections

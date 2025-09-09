@@ -1,7 +1,6 @@
 ---
 title: ML
 publish: true
-draft: true
 ---
 ### Last week
 
@@ -13,7 +12,7 @@ draft: true
 
 
 ### Results
-
+**[[Guide to Python]]**
 
 ### Reflections
 
