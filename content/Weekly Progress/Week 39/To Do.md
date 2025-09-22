@@ -6,7 +6,7 @@ draft: false
 ### Unplanned
 - [ ] Look into SQL Server Analysis Services
 - [ ] Look into integrating learning goals/reflection into short term goals
-	- Did a bit, but since most of the work is learning Python right now, not a lot to work with here.
+	- Kinda doing it without explicitly pointing it out.
 - [ ] Continue the Stanford Course
 - [ ] Dive into the math
 - [ ] Investigate how we get code running on phones
