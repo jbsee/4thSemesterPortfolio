@@ -6,9 +6,8 @@ publish: true
 The goal is to develop a data-driven system that can:
 
 1. Build a history of "problem areas" - roads where violations frequently occur.
-2. Potentially integrate with signage data (e.g., exact sign location, its effect on violations).
-3. Simulate realistic datasets and explore transferable algorithms and analysis tools.
-4. Eventually experiment with prediction (e.g., linking geography and time of year to likelihood of violations).
+2. Simulate realistic datasets and explore transferable algorithms and analysis tools.
+3. Eventually experiment with prediction (e.g., linking geography and time of year to likelihood of violations).
 
 
 ### Current Experience

@@ -5,7 +5,7 @@ publish: true
 ### Unplanned
 - [ ] Look into integrating learning goals/reflection into short term goals
 	- Did a bit, but since most of the work is learning Python right now, not a lot to work with here.
-- [ ] Look into Kolb, feedup, feedforward, feedback
+- [x] Look into Kolb, feedup, feedforward, feedback
 - [ ] Look into SQL Server Analysis Services
 
 ### Monday
@@ -14,25 +14,25 @@ publish: true
 
 
 ### Tuesday
-- [ ] Short project meeting
-- [ ] Process meeting
-- [ ] Work on OCR
+- [x] Short project meeting
+- [x] Process meeting
+- [x] Work on OCR
 
 
 ### Wednesday
-- [ ] ML meeting
+- [x] ML meeting
 
 
 ### Thursday
-- [ ] ML-meeting
+- [x] ML-meeting
 
 
 ### Friday/weekend
-- [ ]  Project meeting
-	- [ ]  Code review
+- [x]  Sick
 
 
 ### Before next week
 
 
 ### Reflections
+Been meeting a lot with the project group trying to get everything ready for getting the repo up and running. Got sick.

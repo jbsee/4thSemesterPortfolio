@@ -6,7 +6,7 @@ publish: true
 
 
 ### Short-Term Plan
-
+Work on getting a first version of the guide to python done.
 
 ### Process
 **[[Guide to Python]]**
@@ -15,6 +15,7 @@ publish: true
 
 
 ### Reflections
-
+Been working on a learning experiment - the Guide to Python. More info in the link above.
 
 ### Coming week
+Finish the guide to Python and start getting hands on experience with the language.

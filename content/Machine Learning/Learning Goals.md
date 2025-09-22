@@ -18,17 +18,18 @@ The goal is to develop an image-based machine learning system that can:
 ### Knowledge goals
 1. Gain knowledge of image-based machine learning models, including object detection and optical character recognition (OCR).
 2. Gain knowledge of preprocessing image data and classifying visual features like color.
-3. Understand basic theory and practice behind used tools (such as OpenCV, EasyOCR, and YOLO).
+3. Understand basic theory and practice behind used tools (such as OpenCV and YOLO).
+4. Gain some understanding for the math that these models build upon.
 
 
 ### Skill goals
-1. Become fluent in Python and learn relevant Python-tools.
+1. Become comfortable in Python and learn relevant Python-tools.
 2. Use image processing tools to detect and extract data from images (e.g. using HSV, OCR).
 3. Assess the output quality of OCR and object detection.
 4. Apply core techniques to build an ML pipeline from image to structured data.
-5. Gain experience with evaluating trade-offs in real-world ML implementations (accuracy vs. performance, model size, etc.).
+5. Gain experience with evaluating trade-offs in real-world ML implementations (accuracy vs. performance, model size, runtimes etc.).
 
 
 ### Competencies
-1. Acquire new knowledge independently within ML based on self-directed learning goals.
-2. Integrate ML components into complex projects.
+1. Integrate ML components into complex projects.
+2. Be able to assess the trade-offs of different tools and methods.

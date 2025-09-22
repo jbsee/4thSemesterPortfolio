@@ -50,51 +50,58 @@ The following resources might also be helpful:
 > 3. `import this`
 > 4. Congrats. You’ve joined a cult.
 
-#### **2. The ecosystem is fractured** 
-Python isn’t one neat thing—it’s a tangle of versions, tools, and packaging formats. Consistency is survival.
+#### **2. The ecosystem is fractured**  
+Python isn’t one tool. It’s a sprawl of versions, environments, and packaging formats. If you don’t pick a setup early, you’ll get crushed by conflicts. Consistency is survival.
 
-> [!info]- **Quick ecosystem map**
+> [!info]- **The ecosystem map: What you're doing determines your stack**
+>
+> | Goal                        | Stack                                         |
+> |-----------------------------|-----------------------------------------------|
+> | **Solo / sandbox project**  | `venv` + `pip` + `requirements.txt`           |
+> | **Team / production project** | `poetry` + `pyproject.toml` + `poetry.lock` |
 >
 > #### Versions
-> - Python 2.x: Dead but haunts legacy systems.
-> - Python 3.x: Actively developed, but 3.6 → 3.12+ changes aren't trivial.
-> 
+> - `Python 2.x`: Dead, but still haunting legacy codebases.
+> - `Python 3.x`: Breaking changes still exist (3.6 → 3.12+). Stick to recent versions.
+>
 > #### Environments
-> - `venv`: Built-in. Creates isolated environments. Use it.  
-> - `conda`: Cross-platform, includes packages + Python version.
-> - `system Python`: Just don’t. Too easy to nuke your OS tools.  
-> - Docker: For reproducibility, deployment, and containment.
-> 
-> #### Package managers
-> - `pip`: The default. Works well, especially with `venv`. `pip freeze` **is not a real lockfile**—it just lists everything currently installed, including transitive deps. Use `pip-tools compile` or `poetry.lock` for reproducible builds. 
-> - `conda`: Comes with Anaconda. Great for data science—includes Python itself and native libs—but bloated outside that niche.  
-> - `poetry`, `pipenv`: Modern dependency managers with real lockfiles. Poetry is opinionated and rising fast; Pipenv is fading.
-> - `pipx`: Installs **single CLI apps** in isolated venvs—no project pollution. Perfect for tools like `black`, `ruff`, or `pytest`.
+> - `venv`: Built-in isolation. Works well with pip. Use by default.
+> - `conda`: Heavy-duty, bundling Python + packages. Great for data science, overkill otherwise.
+> - `system Python`: Risky. Don’t install into it. Can break your OS.
+> - `Docker`: Full OS isolation. Use when reproducibility or sandboxing matters.
 >
-> #### Project setup
-> - `pyproject.toml`: Centralized config for build systems and dependencies.
-> - Supported by `poetry`, `flit`, and increasingly by `pip`.
-> - Slowly replacing `setup.py`, `requirements.txt`, and friends.
+> #### Package Managers
+> - `pip`: Default. Works with `venv`. Doesn’t resolve dependency conflicts.
+> - `poetry`: Modern, opinionated tool. Manages dependencies, lockfiles, and virtualenvs.
+> - `pipx`: Installs CLI tools globally in isolated envs. Great for `black`, `ruff`, etc.
+> - `conda`: Also manages environments. Don’t mix it with pip unless you know what you're doing.
 >
-> **But!** You need to pick exactly **one** build backend:
-> - `setuptools`, `hatchling`, `flit`, or `poetry-core`.
-> - Declare it explicitly in `pyproject.toml`:
+> #### Project Setup
+> - `requirements.txt`: Snapshot of your current environment. Works with pip. Good enough for solo use.
+> - `pyproject.toml`: Modern project metadata. Required by poetry, flit, etc. Replaces `setup.py`, `setup.cfg`, and more.
+> - `poetry.lock`: Exact dependency versions. Ensures all team members install the same stack.
+>
+> #### Build Backends (only for packaging)
+> - If publishing a package, `pyproject.toml` needs this:
 >   ```toml
 >   [build-system]
 >   requires = ["setuptools>=68", "wheel"]
 >   build-backend = "setuptools.build_meta"
 >   ```
-> - Mixing backends = `python -m build` rage spirals and unhelpful errors.
-> ---
->
-> #### Bottom line:
-> Pick one stack early:  
-> _e.g., `venv` + `pip` + `pyproject.toml` + `ruff/black/mypy`_.
-> Then **stick to it**. Mixing tools leads to madness.
+> - Pick **one** backend: `setuptools`, `poetry-core`, `flit`, etc.
+> - Mixing = pain.
+> - 
+> - #### **Bottom line**
+> Don’t improvise your toolchain mid-project. Pick one environment + one dependency manager and stick to it. Everything else is friction.
 
-> [!info]- **Further reading**
+> [!info]- **Publishing packages**
 >
-> Once you’re building real packages, look into `setuptools`, `build`, and `twine`. Publishing to PyPI is its own world—but totally separate from learning the language itself.
+> If you're building a library you want to publish to PyPI:
+> - Learn about `pyproject.toml`, `setuptools`, and `build`.
+> - Use `twine` to upload built packages.
+> - Or just use `poetry publish`, which handles it all.
+>
+> But none of this matters until you're distributing your own package.
 
 #### **3. It’s slow**  
 Python isn’t built for speed. It’s built for flexibility. You pay for that in raw performance.

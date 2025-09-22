@@ -28,3 +28,4 @@ If a deeper understanding of Python turns out to be necessary, I’ll shift to a
 
 
 ### Coming week
+Keep looking into Python

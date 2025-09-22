@@ -19,3 +19,4 @@ The early project phases require more ML implementation than DS&A, so I’m prio
 
 
 ### Coming week
+Keep looking into Python

@@ -25,3 +25,4 @@ Just as crucial is maintaining alignment with the initial system requirements de
 
 
 ### Coming week
+Continue working on the system development methodology and start creating artefacts.
