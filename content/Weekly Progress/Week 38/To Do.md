@@ -3,14 +3,8 @@ title: To Do
 publish: true
 draft: false
 ---
-### Unplanned
-- [ ] Look into integrating learning goals/reflection into short term goals
-	- Need to make a version 2 of learning goals because of new knowledge.
-- [ ] Look into SQL Server Analysis Services
-
 ### Monday
 - [x] Sick
-
 
 ### Tuesday
 - [x] Short project meeting

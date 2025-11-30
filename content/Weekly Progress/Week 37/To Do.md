@@ -3,10 +3,9 @@ title: To Do
 publish: true
 ---
 ### Unplanned
-- [ ] Look into integrating learning goals/reflection into short term goals
+- [x] Look into integrating learning goals/reflection into short term goals
 	- Did a bit, but since most of the work is learning Python right now, not a lot to work with here.
 - [x] Look into Kolb, feedup, feedforward, feedback
-- [ ] Look into SQL Server Analysis Services
 
 ### Monday
 - [x] ML meeting

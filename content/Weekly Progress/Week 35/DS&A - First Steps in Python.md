@@ -6,7 +6,7 @@ publish: true
 - Identify relevant theory, tools and techniques to explore in-depth.
 - Draft a long term learning plan for these areas.
 - Start learning Python
-	- [[Data Science and Analytics/Learning Goals|Skill goal 1]].
+	- [[Learning Goals 1|Skill goal 1]].
 
 
 ### Process

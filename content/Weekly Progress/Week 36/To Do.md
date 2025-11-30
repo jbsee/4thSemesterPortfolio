@@ -4,7 +4,7 @@ publish: true
 draft: false
 ---
 ### Unplanned
-- [ ] Look into integrating learning goals/reflection into short term goals
+- [x] Look into integrating learning goals/reflection into short term goals
 	- Did a bit, but since most of the work is learning Python right now, not a lot to work with here.
 - [ ] Look into Kolb, feedup, feedforward, feedback 
 

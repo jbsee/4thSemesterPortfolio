@@ -1,6 +1,6 @@
 ---
 title: Learning Goals
-publish: true
+publish: false
 ---
 ### Long-Term Vision
 The goal is to develop an image-based machine learning system that can:

@@ -4,35 +4,34 @@ publish: true
 draft: false
 ---
 ### Unplanned
-- [ ] Look into SQL Server Analysis Services
 - [ ] Look into integrating learning goals/reflection into short term goals
 	- Kinda doing it without explicitly pointing it out.
 - [ ] Continue the Stanford Course
 - [ ] Dive into the math
-- [ ] Investigate how we get code running on phones
+- [x] Investigate how we get code running on phones
 - [ ] At some point look into details of fine tuning a model.
-- [ ] Coding conventions?
+- [x] Coding conventions?
 ### Monday
 - [x] Work on backend DCD
 - [x] Project meeting
 - [x] Update portfolio
 
 ### Tuesday
-- [ ] Short project meeting
-- [ ] Process meeting
+- [x] Short project meeting
+- [x] Process meeting
 
 
 ### Wednesday
-- [ ] Non-semester related day
+- [x] Non-semester related day
 
 
 ### Thursday
-- [ ] ML-meeting
+- [x] ML-meeting
 
 
 ### Friday/weekend
-- [ ]  Project meeting
-	- [ ]  Code review
+- [x]  Project meeting
+	- [x]  Code review
 
 
 ### Before next week
