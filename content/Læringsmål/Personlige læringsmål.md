@@ -60,6 +60,6 @@ Jeg kan:
 **Kompetencer**  
 Jeg kan:  
 - selvstændigt sætte mig ind i metoder og værktøjer inden for data science og anvende dem i praksis.
-- oversætte kvantitative dataanalyser til handlingsorienterede indsigter ("Actionable Insights"), der kan kvalificere beslutninger i softwareudvikling.
+- oversætte kvantitative dataanalyser til handlingsorienterede indsigter, der kan kvalificere beslutninger i softwareudvikling.
 - perspektivere dataarbejdets rolle i udviklingen af software, ML-systemer og i uddannelsens øvrige fag.  
 - relatere struktureret dataarbejde til relevante samfunds- og branchemæssige problemstillinger.
