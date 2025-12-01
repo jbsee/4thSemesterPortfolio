@@ -1,6 +1,7 @@
 ---
 title: Personlige læringsmål
 publish: false
+draft: true
 ---
 
 

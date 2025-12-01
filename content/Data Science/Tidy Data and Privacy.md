@@ -1,3 +1,9 @@
+---
+title: 6. Pserspektivering og refleksion
+publish: false
+draft: true
+---
+
 # CorrectionEvent Schema & Privacy Protocol
 
 ## 1. Event Definition

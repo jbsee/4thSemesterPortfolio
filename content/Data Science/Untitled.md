@@ -1,4 +1,8 @@
-
+---
+title: 6. Perspekhgtivering og refleksion
+publish: false
+draft: true
+---
 
 
 
