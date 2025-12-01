@@ -1,5 +1,5 @@
 ---
-title: 3. Lidt teori og begreber
+title: Lidt teori og begreber
 publish: true
 ---
 ## Underfitting og overfitting
@@ -17,7 +17,7 @@ Det andet diagram viser en optimal model, hvor linjen nøjagtigt adskiller de to
 Det sidste diagram illustrerer en overtilpasset model, som er for kompleks og passer for godt til træningsdataene. Modellen er så tilpasset, at den ikke kun lærer det underliggende mønster, men også støjen og outliers i træningsdataene, som det ses af dens uberegnelige opførsel omkring nogle få datapunkter. Resultatet er, at selvom den klarer sig godt på træningsdataene, vil den sandsynligvis klare sig dårligt på nye, usete data.
 
 ---
-## Bias og varians
+## Bias og variance
 
 **Bias (Fejlagtige antagelser)** 
 Bias er fejlen, der opstår, fordi din model gør forsimplede antagelser om den virkelige verden for at gøre målfunktionen lettere at lære. En model med høj bias ignorerer relevante relationer mellem features og outputtet. I praksis betyder det, at modellen ikke fanger den underliggende trend i dataene. Hvis dine data danner en parabel (en kurve), men du tvinger en lineær regression (en ret linje) ned over dem, har du indbygget en systematisk fejl. Uanset hvor meget data du fodrer den med, vil den aldrig ramme rigtigt, fordi dens grundlæggende verdensbillede er for simpelt. Dette fører direkte til underfitting.
